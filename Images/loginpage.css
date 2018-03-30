@@ -1,0 +1,516 @@
+HTML {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+SPAN {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+OBJECT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+IFRAME {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+H3 {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+H4 {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+H5 {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+H6 {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+BLOCKQUOTE {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+PRE {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+A {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+ABBR {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+ACRONYM {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+ADDRESS {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+CODE {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DEL {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DFN {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+EM {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+Q {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DL {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DD {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+OL {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+LABEL {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+LEGEND {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; BORDER-TOP: 0px; FONT-WEIGHT: inherit; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+TABLE {
+	PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; FONT-WEIGHT: inherit; PADDING-TOP: 0px
+}
+CAPTION {
+	PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; FONT-WEIGHT: inherit; PADDING-TOP: 0px
+}
+TBODY {
+	PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; FONT-WEIGHT: inherit; PADDING-TOP: 0px
+}
+TFOOT {
+	PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; FONT-WEIGHT: inherit; PADDING-TOP: 0px
+}
+THEAD {
+	PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; FONT-WEIGHT: inherit; PADDING-TOP: 0px
+}
+TR {
+	PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; FONT-WEIGHT: inherit; PADDING-TOP: 0px
+}
+TH {
+	PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; FONT-WEIGHT: inherit; PADDING-TOP: 0px
+}
+TD {
+	PADDING-BOTTOM: 0px; FONT-STYLE: inherit; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: inherit; FONT-SIZE: 100%; VERTICAL-ALIGN: baseline; FONT-WEIGHT: inherit; PADDING-TOP: 0px
+}
+BODY {
+	LINE-HEIGHT: 1.5
+}
+TABLE {
+	BORDER-SPACING: 0; BORDER-COLLAPSE: separate
+}
+CAPTION {
+	TEXT-ALIGN: left; FONT-WEIGHT: normal
+}
+TH {
+	TEXT-ALIGN: left; FONT-WEIGHT: normal
+}
+TD {
+	TEXT-ALIGN: left; FONT-WEIGHT: normal
+}
+TABLE {
+	VERTICAL-ALIGN: middle
+}
+TD {
+	VERTICAL-ALIGN: middle
+}
+TH {
+	VERTICAL-ALIGN: middle
+}
+BLOCKQUOTE:before {
+	CONTENT: ""
+}
+BLOCKQUOTE:after {
+	CONTENT: ""
+}
+Q:before {
+	CONTENT: ""
+}
+Q:after {
+	CONTENT: ""
+}
+BLOCKQUOTE {
+	QUOTES: "" ""
+}
+Q {
+	QUOTES: "" ""
+}
+A IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+INPUT {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+UL {
+	LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+LABEL {
+	COLOR: #666; CURSOR: pointer
+}
+BODY {
+	FONT-FAMILY: Helvetica, Arial, "宋体", sans-serif; BACKGROUND: #fff; COLOR: #222; FONT-SIZE: 75%
+}
+H1 {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+H2 {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+H3 {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+H4 {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+H5 {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+H6 {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+H1 {
+	FONT-FAMILY: "黑体", sans-serif; FONT-SIZE: 36px
+}
+H2 {
+	MARGIN-TOP: 10px; FLOAT: left; COLOR: #ccc; FONT-SIZE: 45px; FONT-WEIGHT: normal
+}
+H3 {
+	MARGIN: 8px 0px 7px; COLOR: #000; FONT-SIZE: 16px
+}
+H4 {
+	MARGIN: 8px 0px; COLOR: #666; FONT-SIZE: 14px
+}
+H5 {
+	MARGIN: 8px 0px; COLOR: #666; FONT-SIZE: 12px
+}
+H6 {
+	MARGIN: 8px 0px; FONT-SIZE: 12px
+}
+H1 IMG {
+	MARGIN: 0px
+}
+H2 IMG {
+	MARGIN: 0px
+}
+H3 IMG {
+	MARGIN: 0px
+}
+H4 IMG {
+	MARGIN: 0px
+}
+H5 IMG {
+	MARGIN: 0px
+}
+H6 IMG {
+	MARGIN: 0px
+}
+P {
+	COLOR: #666
+}
+P.gray_title {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+A:focus {
+	TEXT-DECORATION: underline
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; COLOR: #666; CURSOR: pointer; TEXT-DECORATION: none
+}
+SPAN {
+	COLOR: #666
+}
+SPAN.red {
+	COLOR: red
+}
+TEXTAREA {
+	OVERFLOW: hidden
+}
+FIELDSET {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 1.4em; MARGIN: 0px 0px 1.5em; PADDING-LEFT: 1.4em; PADDING-RIGHT: 1.4em; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 1.4em
+}
+LEGEND {
+	FONT-SIZE: 1.2em; FONT-WEIGHT: bold
+}
+INPUT.text {
+	BORDER-BOTTOM: #bbb 1px solid; BORDER-LEFT: #bbb 1px solid; MARGIN: 0px; FONT-FAMILY: Helvetica, Arial, "宋体", sans-serif; COLOR: #666; FONT-SIZE: 12px; BORDER-TOP: #bbb 1px solid; BORDER-RIGHT: #bbb 1px solid
+}
+INPUT.title {
+	BORDER-BOTTOM: #bbb 1px solid; BORDER-LEFT: #bbb 1px solid; MARGIN: 0px; FONT-FAMILY: Helvetica, Arial, "宋体", sans-serif; COLOR: #666; FONT-SIZE: 12px; BORDER-TOP: #bbb 1px solid; BORDER-RIGHT: #bbb 1px solid
+}
+TEXTAREA {
+	BORDER-BOTTOM: #bbb 1px solid; BORDER-LEFT: #bbb 1px solid; MARGIN: 0px; FONT-FAMILY: Helvetica, Arial, "宋体", sans-serif; COLOR: #666; FONT-SIZE: 12px; BORDER-TOP: #bbb 1px solid; BORDER-RIGHT: #bbb 1px solid
+}
+SELECT {
+	BORDER-BOTTOM: #bbb 1px solid; BORDER-LEFT: #bbb 1px solid; MARGIN: 0px; FONT-FAMILY: Helvetica, Arial, "宋体", sans-serif; COLOR: #666; FONT-SIZE: 12px; BORDER-TOP: #bbb 1px solid; BORDER-RIGHT: #bbb 1px solid
+}
+INPUT.text:focus {
+	BORDER-BOTTOM: #666 1px solid; BORDER-LEFT: #666 1px solid; BORDER-TOP: #666 1px solid; BORDER-RIGHT: #666 1px solid
+}
+INPUT.title:focus {
+	BORDER-BOTTOM: #666 1px solid; BORDER-LEFT: #666 1px solid; BORDER-TOP: #666 1px solid; BORDER-RIGHT: #666 1px solid
+}
+TEXTAREA:focus {
+	BORDER-BOTTOM: #666 1px solid; BORDER-LEFT: #666 1px solid; BORDER-TOP: #666 1px solid; BORDER-RIGHT: #666 1px solid
+}
+SELECT:focus {
+	BORDER-BOTTOM: #666 1px solid; BORDER-LEFT: #666 1px solid; BORDER-TOP: #666 1px solid; BORDER-RIGHT: #666 1px solid
+}
+INPUT.text {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 300px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+INPUT.title {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 300px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+INPUT.title {
+	FONT-SIZE: 1.5em
+}
+.error {
+	BORDER-BOTTOM: #ddd 2px solid; BORDER-LEFT: #ddd 2px solid; PADDING-BOTTOM: 0.8em; PADDING-LEFT: 0.8em; PADDING-RIGHT: 0.8em; MARGIN-BOTTOM: 1em; BORDER-TOP: #ddd 2px solid; BORDER-RIGHT: #ddd 2px solid; PADDING-TOP: 0.8em
+}
+.notice {
+	BORDER-BOTTOM: #ddd 2px solid; BORDER-LEFT: #ddd 2px solid; PADDING-BOTTOM: 0.8em; PADDING-LEFT: 0.8em; PADDING-RIGHT: 0.8em; MARGIN-BOTTOM: 1em; BORDER-TOP: #ddd 2px solid; BORDER-RIGHT: #ddd 2px solid; PADDING-TOP: 0.8em
+}
+.success {
+	BORDER-BOTTOM: #ddd 2px solid; BORDER-LEFT: #ddd 2px solid; PADDING-BOTTOM: 0.8em; PADDING-LEFT: 0.8em; PADDING-RIGHT: 0.8em; MARGIN-BOTTOM: 1em; BORDER-TOP: #ddd 2px solid; BORDER-RIGHT: #ddd 2px solid; PADDING-TOP: 0.8em
+}
+.error {
+	BORDER-BOTTOM-COLOR: #fbc2c4; BORDER-TOP-COLOR: #fbc2c4; BACKGROUND: #fbe3e4; COLOR: #8a1f11; BORDER-RIGHT-COLOR: #fbc2c4; BORDER-LEFT-COLOR: #fbc2c4
+}
+.notice {
+	BORDER-BOTTOM-COLOR: #ffd324; BORDER-TOP-COLOR: #ffd324; BACKGROUND: #fff6bf; COLOR: #514721; BORDER-RIGHT-COLOR: #ffd324; BORDER-LEFT-COLOR: #ffd324
+}
+.success {
+	BORDER-BOTTOM-COLOR: #c6d880; BORDER-TOP-COLOR: #c6d880; BACKGROUND: #e6efc2; COLOR: #264409; BORDER-RIGHT-COLOR: #c6d880; BORDER-LEFT-COLOR: #c6d880
+}
+.error A {
+	COLOR: #8a1f11
+}
+.notice A {
+	COLOR: #514721
+}
+.success A {
+	COLOR: #264409
+}
+SELECT {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 25px; PADDING-LEFT: 2px; WIDTH: 120px; PADDING-RIGHT: 2px; FLOAT: left; HEIGHT: 25px; MARGIN-LEFT: 10px; PADDING-TOP: 2px
+}
+.select_kind {
+	WIDTH: 150px; MARGIN-LEFT: 0px
+}
+.right {
+	FLOAT: right !important
+}
+.left {
+	FLOAT: left !important
+}
+.clear {
+	CLEAR: both
+}
+.border_bottom {
+	BORDER-BOTTOM: #dedede 1px solid
+}
+.border_bottom_dash {
+	BORDER-BOTTOM: #dedede 1px dashed
+}
+.border_top {
+	BORDER-TOP: #dedede 1px solid
+}
+.margin_left_none {
+	MARGIN-LEFT: 0px !important
+}
+.margin_right_none {
+	MARGIN-RIGHT: 0px !important
+}
+.margin_bottom_none {
+	MARGIN-BOTTOM: 0px !important
+}
+.margin_top_none {
+	MARGIN-TOP: 0px !important
+}
+.padding_bottom_none {
+	PADDING-BOTTOM: 0px !important
+}
+.noborder {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+P.pbold {
+	FONT-WEIGHT: bold
+}
+P.phead {
+	MARGIN-LEFT: 5px
+}
+A.highlight {
+	COLOR: #09c !important; FONT-WEIGHT: normal
+}
+.highlight {
+	COLOR: #09c !important; FONT-WEIGHT: normal
+}
+.highlight A {
+	COLOR: #09c !important; FONT-WEIGHT: normal
+}
+A.highlightheader {
+	COLOR: #09c; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+A.bluebold {
+	COLOR: #09c; FONT-WEIGHT: bold
+}
+.bluebold {
+	COLOR: #09c; FONT-WEIGHT: bold
+}
+A.blue {
+	COLOR: #09c; FONT-WEIGHT: normal
+}
+.green {
+	COLOR: #390 !important; FONT-WEIGHT: normal
+}
+.greenbold {
+	COLOR: #390; FONT-WEIGHT: bold
+}
+.lightgray {
+	COLOR: #999 !important
+}
+.black {
+	COLOR: #000 !important
+}
+.blackbold {
+	COLOR: #000 !important; FONT-WEIGHT: bold
+}
+.graybold {
+	FONT-WEIGHT: bold
+}
+.lightgray * {
+	COLOR: #999
+}
+.row {
+	WIDTH: 100%; FLOAT: left
+}
+BODY {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.loginpage_wrrap {
+	BACKGROUND: url(../Images/ng_bg.jpg) no-repeat center 16px; HEIGHT: 596px
+}
+.loginpage_head {
+	WIDTH: 100%; BACKGROUND: url(Images/logon_head_bg.png) repeat-x; HEIGHT: 82px; -webkit-box-shadow: 0px 1px 3px #666; box-shadow: 0px 1px 2px #666
+}
+.loginpage_head_center {
+	TEXT-ALIGN: center; MARGIN: 0px auto; WIDTH: 960px; HEIGHT: 81px
+}
+.loginpage_head_center IMG {
+	MARGIN: 10px 0px 0px; FLOAT: left
+}
+.loginpage_head_line {
+	MARGIN: 22px 0px 0px 21px; WIDTH: 15px; BACKGROUND: url(Images/nb_line.png) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+.loginpage_head_txt {
+	LINE-HEIGHT: 40px; MARGIN: 22px 0px 0px 11px; FONT-FAMILY: "microsoft yahei"; FLOAT: left; HEIGHT: 40px; COLOR: #666; FONT-SIZE: 22px
+}
+.loginpage_head_icon {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 37px 34px 0px 0px; PADDING-LEFT: 26px; PADDING-RIGHT: 0px; BACKGROUND: url(Images/help_gray_icon.png) no-repeat 0px 0px; FLOAT: right; HEIGHT: 20px; COLOR: #999; FONT-SIZE: 12px; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.loginpage_head_icon:link {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 37px 34px 0px 0px; PADDING-LEFT: 26px; PADDING-RIGHT: 0px; BACKGROUND: url(Images/help_gray_icon.png) no-repeat 0px 0px; FLOAT: right; HEIGHT: 20px; COLOR: #999; FONT-SIZE: 12px; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.loginpage_head_icon:hover {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 37px 34px 0px 0px; PADDING-LEFT: 26px; PADDING-RIGHT: 0px; BACKGROUND: url(Images/help_gray_icon.png) no-repeat 0px 0px; FLOAT: right; HEIGHT: 20px; COLOR: #999; FONT-SIZE: 12px; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.loginpage_head_icon:visited {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 37px 34px 0px 0px; PADDING-LEFT: 26px; PADDING-RIGHT: 0px; BACKGROUND: url(Images/help_gray_icon.png) no-repeat 0px 0px; FLOAT: right; HEIGHT: 20px; COLOR: #999; FONT-SIZE: 12px; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.loginpage_head_icon:active {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 37px 34px 0px 0px; PADDING-LEFT: 26px; PADDING-RIGHT: 0px; BACKGROUND: url(Images/help_gray_icon.png) no-repeat 0px 0px; FLOAT: right; HEIGHT: 20px; COLOR: #999; FONT-SIZE: 12px; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.loginpage_center {
+	TEXT-ALIGN: center; MARGIN: 0px auto; WIDTH: 960px; HEIGHT: 514px
+}
+.loginpage_center_main {
+	MARGIN: 128px 109px 0px 0px; WIDTH: 290px; FLOAT: right
+}
+.loginpage_center_text {
+	TEXT-ALIGN: left; LINE-HEIGHT: 20px; WIDTH: 100%; FLOAT: left; HEIGHT: 20px; COLOR: #666; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.loginpage_center_row {
+	LINE-HEIGHT: 28px; MARGIN: 13px 0px 0px; WIDTH: 100%; FLOAT: left; HEIGHT: 28px
+}
+.loginpage_center_font {
+	TEXT-ALIGN: right; WIDTH: 58px; DISPLAY: block; FLOAT: left; COLOR: #666; FONT-SIZE: 14px
+}
+.loginpage_center_input {
+	BORDER-BOTTOM: #999 1px solid; BORDER-LEFT: #999 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 3px; WIDTH: 210px; PADDING-RIGHT: 3px; FLOAT: left; HEIGHT: 26px; COLOR: #666; FONT-SIZE: 14px; BORDER-TOP: #999 1px solid; BORDER-RIGHT: #999 1px solid; PADDING-TOP: 0px
+}
+.loginpage_center_inputs {
+	BORDER-BOTTOM: #999 1px solid; BORDER-LEFT: #999 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 3px; WIDTH: 58px; PADDING-RIGHT: 3px; FLOAT: left; HEIGHT: 26px; COLOR: #666; FONT-SIZE: 14px; BORDER-TOP: #999 1px solid; BORDER-RIGHT: #999 1px solid; PADDING-TOP: 0px
+}
+.loginpage_center_test {
+	BORDER-BOTTOM: #e5e5e5 1px solid; BORDER-LEFT: #e5e5e5 1px solid; MARGIN: 0px 0px 0px 10px; WIDTH: 76px; DISPLAY: block; FLOAT: left; HEIGHT: 26px; BORDER-TOP: #e5e5e5 1px solid; BORDER-RIGHT: #e5e5e5 1px solid
+}
+.loginpage_center_test IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.loginpage_test_font {
+	MARGIN: 0px 0px 0px 15px; FLOAT: left
+}
+.loginpage_center_check {
+	MARGIN: 8px 6px 8px 58px; WIDTH: 13px; FLOAT: left; HEIGHT: 13px
+}
+.loginpage_center_checkfont {
+	FLOAT: left; COLOR: #666; FONT-SIZE: 12px
+}
+.loginpage_center_chrow {
+	LINE-HEIGHT: 28px; MARGIN: 8px 0px 0px; WIDTH: 100%; FLOAT: left; HEIGHT: 28px
+}
+.loginpage_center_btn {
+	MARGIN: 0px 16px 0px 58px; WIDTH: 66px; BACKGROUND: url(Images/logon_bg_btn.png) no-repeat; FLOAT: left; HEIGHT: 28px; COLOR: #fff; FONT-SIZE: 12px; CURSOR: pointer
+}
+.loginpage_foot {
+	TEXT-ALIGN: left; LINE-HEIGHT: 41px; MARGIN: 7px auto; WIDTH: 960px; BACKGROUND: url(Images/login_foot_bg.png) repeat-x; COLOR: #666; CLEAR: both; OVERFLOW: hidden
+}
+.loginpage_foot_font {
+	LINE-HEIGHT: 22px; MARGIN: 10px 0px 0px; FLOAT: left; HEIGHT: 22px
+}
+.loginpage_foot_font IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: 0px 12px 0px 4px; FLOAT: left; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.mistake_notice {
+	POSITION: absolute; MARGIN: 15px 0px 0px 68px; FLOAT: left; COLOR: rgb(255,0,0); FONT-SIZE: 12px
+}

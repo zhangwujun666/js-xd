@@ -1,0 +1,18 @@
+#keyboard {
+	background: rgb(255, 255, 255); border: 1px solid rgb(203, 203, 203); width: 370px; text-align: center; padding-right: 3px; padding-bottom: 2px;
+}
+#row0 input {
+	background: url("../js/images/pic_001.gif") repeat-x; border: 1px solid rgb(203, 203, 203); width: 25px; color: rgb(145, 145, 145); margin-top: 3px; margin-left: 3px;
+}
+#row1 input {
+	background: url("../js/images/pic_001.gif") repeat-x; border: 1px solid rgb(203, 203, 203); width: 25px; color: rgb(145, 145, 145); margin-top: 3px; margin-left: 3px;
+}
+#row2 input {
+	background: url("../js/images/pic_001.gif") repeat-x; border: 1px solid rgb(203, 203, 203); width: 25px; color: rgb(145, 145, 145); margin-top: 3px; margin-left: 3px;
+}
+#row3 input {
+	background: url("../js/images/pic_001.gif") repeat-x; border: 1px solid rgb(203, 203, 203); width: 25px; color: rgb(145, 145, 145); margin-top: 3px; margin-left: 3px;
+}
+#row4 input {
+	background: url("../js/images/pic_001.gif") repeat-x; border: 1px solid rgb(203, 203, 203); width: 25px; color: rgb(145, 145, 145); margin-top: 3px; margin-left: 3px;
+}

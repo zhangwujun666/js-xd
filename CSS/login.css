@@ -1,0 +1,87 @@
+﻿body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFFFFF;
+	text-align: center;
+}
+body,td,th {
+	font-size: 12px;
+	color: #000000;
+}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+
+.bga
+{
+	background-image: url(../images/login/denglu.jpg);
+	height: 246px;
+	width: 520px;
+	background-repeat: no-repeat;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+	text-align: left;
+	padding-top: 150px;
+}
+.bga .line
+{
+	height: 32px;
+	width: 520px;
+	clear: both;
+}
+.bga .line .l
+{
+	width: 60px;
+	float: left;
+	padding-left: 110px;
+	padding-top: 10px;
+}
+.bga .line .r
+{
+	width: 340px;
+	float: right;
+}
+.bga .an
+{
+padding-top: 10px;
+	text-align: center;
+}
+.bga .bq
+{
+	text-align: right;
+	padding-right: 25px;
+	color: #FF6600;
+	margin-top: 0px;
+}
+.bga .bq a
+{
+	color: #FF6600;
+}
+.bga .line .r img
+{
+	height: 20px;
+	vertical-align: top;
+	width: 44px;
+}
+.mm
+{
+    width: 150px;
+}
+#ibut_Login
+{
+	height: 28px;
+	width: 68px;
+}

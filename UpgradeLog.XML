@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GXSYS">
+</Property><Property Name="解决方案文件" Value="C:\Users\lian320\Desktop\毕业设计文件家\【博泰】868ASP.NET+SQL+LW+基于ASP.NET高校实验室管理系统\GXSYS\GXSYS.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\lian320\Desktop\毕业设计文件家\【博泰】868ASP.NET+SQL+LW+基于ASP.NET高校实验室管理系统\GXSYS\GXSYS.suo">
+</Property><Property Name="Date" Value="2016年2月24日">
+</Property><Property Name="Time" Value="13:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GXSYS.sln" Description="文件已成功备份为 C:\Users\lian320\Desktop\毕业设计文件家\【博泰】868ASP.NET+SQL+LW+基于ASP.NET高校实验室管理系统\GXSYS\Backup\GXSYS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GXSYS.suo" Description="文件已成功备份为 C:\Users\lian320\Desktop\毕业设计文件家\【博泰】868ASP.NET+SQL+LW+基于ASP.NET高校实验室管理系统\GXSYS\Backup\GXSYS.suo">
+</Event><Event ErrorLevel="1" Project="GXSYS" Source="..\GXSYS" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="0" Project="" Source="GXSYS.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="GXSYS.sln" Description="Converted">
+</Event></UpgradeLog>

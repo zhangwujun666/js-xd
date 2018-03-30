@@ -1,0 +1,93 @@
+* {
+	margin: 0px; padding: 0px;
+}
+.login_box_top {
+	background: url("../img/top_bg.png") repeat-x; border: 0px solid rgb(255, 0, 0); height: 466px;
+}
+.login_box_bottom {
+	background: url("../img/bot_bg.png") repeat-x; border: 0px solid rgb(0, 0, 255); height: 217px;
+}
+.login_box {
+	background: url("../img/table_bg.png") no-repeat; border: 0px solid rgb(255, 0, 0); left: 50%; top: 50%; width: 504px; height: 305px; margin-top: -150px; margin-left: -250px; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader; position: absolute;
+}
+.login_box .logo_box {
+	border: 0px solid rgb(255, 0, 0); left: 8%; top: 50px; width: 180px; height: 100px; text-align: center; position: absolute;
+}
+.login_box .smallbox {
+	border: 0px solid rgb(255, 0, 0); left: 47%; top: 90px; width: 250px; height: 180px; text-align: left; position: absolute;
+}
+.login_box .copyright {
+	border: 0px solid rgb(255, 0, 0); left: 0%; top: 285px; width: 500px; text-align: center; color: rgb(121, 128, 136); font-size: 12px; position: absolute;
+}
+.login_box .copyright a {
+	color: rgb(121, 128, 136);
+}
+.login_box .oneline {
+	line-height: 23px; font-size: 14px; margin-top: 2px; margin-bottom: 10px;
+}
+.login_box .oneline img {
+	margin-left: 70px; cursor: pointer;
+}
+.login_box .wid70 {
+	width: 70px; text-align: right; color: rgb(121, 128, 136); float: left;
+}
+.login_box .wid140 {
+	background: url("../img/login_iptbg.jpg") repeat-x 0px 1px; padding: 2px 0px; border: 1px solid rgb(168, 181, 197); width: 140px;
+}
+.login_box .wid80 {
+	background: url("../img/login_iptbg.jpg") repeat-x 0px 1px; padding: 2px 0px; border: 1px solid rgb(168, 181, 197); width: 80px;
+}
+.login_box .red_font {
+	color: rgb(255, 0, 0); font-size: 12px;
+}
+.login_box .wid60 {
+	width: 60px; color: rgb(121, 128, 136); float: left;
+}
+.bodybg {
+	background: rgb(185, 202, 220);
+}
+.login_box_top {
+	background: url("../img/top_bg.png") repeat-x; border: 0px solid rgb(255, 0, 0); height: 466px;
+}
+.login_box_bottom {
+	background: url("../img/bot_bg.png") repeat-x; border: 0px solid rgb(0, 0, 255); height: 217px;
+}
+.login_box_water {
+	background: url("../img/table_water.png") no-repeat; border: 0px solid rgb(255, 0, 0); left: 50%; top: 50%; width: 504px; height: 305px; margin-top: -150px; margin-left: -250px; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader; position: absolute;
+}
+.login_box_water .logo_box {
+	border: 0px solid rgb(255, 0, 0); left: 8%; top: 50px; width: 180px; height: 100px; text-align: center; position: absolute;
+}
+.login_box_water .smallbox {
+	border: 0px solid rgb(255, 0, 0); left: 47%; top: 90px; width: 250px; height: 180px; text-align: left; position: absolute;
+}
+.login_box_water .copyright {
+	border: 0px solid rgb(255, 0, 0); left: 0%; top: 285px; width: 500px; text-align: center; color: rgb(121, 128, 136); font-size: 12px; position: absolute;
+}
+.login_box_water .copyright a {
+	color: rgb(121, 128, 136);
+}
+.login_box_water .oneline {
+	line-height: 23px; font-size: 14px; margin-top: 2px; margin-bottom: 10px;
+}
+.login_box_water .oneline img {
+	margin-left: 70px; cursor: pointer;
+}
+.login_box_water .wid70 {
+	width: 70px; text-align: right; color: rgb(121, 128, 136); float: left;
+}
+.login_box_water .wid140 {
+	background: url("../img/login_iptbg.jpg") repeat-x 0px 1px; padding: 2px 0px; border: 1px solid rgb(168, 181, 197); width: 140px;
+}
+.login_box_water .wid80 {
+	background: url("../img/login_iptbg.jpg") repeat-x 0px 1px; padding: 2px 0px; border: 1px solid rgb(168, 181, 197); width: 80px;
+}
+.login_box_water .red_font {
+	color: rgb(255, 0, 0); font-size: 12px;
+}
+.login_box_water .wid60 {
+	width: 60px; color: rgb(121, 128, 136); float: left;
+}
+.bodybg {
+	background: rgb(185, 202, 220);
+}

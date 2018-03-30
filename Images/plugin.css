@@ -1,0 +1,18 @@
+.unieap .plugin {
+	border-width: 1px 1px 0px; border-style: solid solid none; border-color: blue blue currentColor; width: 240px; overflow: hidden; position: absolute;
+}
+.unieap .plugin-tab {
+	width: 100%; font-size: 12px; table-layout: fixed;
+}
+.unieap .plugin-status {
+	width: 20px; height: 21px; border-bottom-color: blue; border-bottom-width: 1px; border-bottom-style: solid; background-color: rgb(221, 221, 228);
+}
+.unieap .plugin-label {
+	width: auto; border-bottom-color: blue; border-bottom-width: 1px; border-bottom-style: solid; background-color: rgb(221, 221, 228);
+}
+.unieap .plugin-installed {
+	background: url("../Images/accept.png") no-repeat; width: 16px; height: 16px;
+}
+.unieap .plugin-uninstalled {
+	width: 16px; height: 16px;
+}

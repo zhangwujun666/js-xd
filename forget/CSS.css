@@ -1,0 +1,47 @@
+.biaozhunziti {
+    color: white;
+    font-size: 12px;
+    font-style: normal; 
+    line-height: normal;
+}
+
+.wenbenkuang {
+    border: 1px solid #BDE7A7;
+    height: 22px;
+}
+
+.chaolianjie:link {
+    color: #F5A100;
+
+    font-size: 12px;
+    
+    line-height: 16px;
+    text-decoration: none;
+}
+
+.chaolianjie:visited {
+    color: #F5A100;
+
+    font-size: 12px;
+    
+    line-height: 16px;
+    text-decoration: none;
+}
+
+.chaolianjie:hover {
+    color: #8F8F8F;
+
+    font-size: 12px;
+    
+    line-height: 16px;
+    text-decoration: none;
+}
+
+.chaolianjie:active {
+    color: #8F8F8F;
+
+    font-size: 12px;
+    
+    line-height: 16px;
+    text-decoration: none;
+}
